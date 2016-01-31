@@ -1,0 +1,30 @@
+c:\users\jerih\documents\visual studio 2015\Projects\HomeWork1\View\bin\Debug\View.exe.config
+C:\Users\jerih\Documents\Visual Studio 2015\Projects\HomeWork1\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\jerih\Documents\Visual Studio 2015\Projects\HomeWork1\View\bin\Debug\View.exe
+C:\Users\jerih\Documents\Visual Studio 2015\Projects\HomeWork1\View\bin\Debug\View.pdb
+C:\Users\jerih\Documents\Visual Studio 2015\Projects\HomeWork1\View\bin\Debug\Model.dll
+C:\Users\jerih\Documents\Visual Studio 2015\Projects\HomeWork1\View\bin\Debug\Model.pdb
+C:\Users\jerih\Documents\Visual Studio 2015\Projects\HomeWork1\View\obj\Debug\View.exe
+C:\Users\jerih\Documents\Visual Studio 2015\Projects\HomeWork1\View\obj\Debug\View.pdb
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\bin\Debug\View.exe.config
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\obj\Debug\View.exe
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\obj\Debug\View.pdb
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\bin\Debug\View.exe
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\bin\Debug\View.pdb
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\bin\Debug\Model.dll
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\bin\Debug\Model.pdb
+C:\Users\jerih\Documents\GitHubVisualStudio\MITAL_HOMEWORK1\HomeWork1\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\bin\Debug\View.exe.config
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\obj\Debug\View.exe
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\obj\Debug\View.pdb
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\bin\Debug\View.exe
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\bin\Debug\View.pdb
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\bin\Debug\Model.dll
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\bin\Debug\Model.pdb
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HomeWork1\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HMWRK1\View\bin\Debug\View.exe.config
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HMWRK1\View\obj\Debug\View.exe
+C:\Users\123\Desktop\MITAL_HOMEWORK1-master\HMWRK1\View\obj\Debug\View.pdb
+C:\Users\123\Desktop\123445\HMWRK1\View\bin\Debug\View.exe.config
+C:\Users\123\Desktop\123445\HMWRK1\View\obj\Debug\View.exe
+C:\Users\123\Desktop\123445\HMWRK1\View\obj\Debug\View.pdb
